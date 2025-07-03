@@ -1,3 +1,0 @@
-hello This is my First text file
-
-Hello im modifying this txt file
